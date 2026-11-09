@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+storage/uploads/*
+!storage/uploads/.gitkeep
+.env
+storage/uploads/
+storage/generated/
